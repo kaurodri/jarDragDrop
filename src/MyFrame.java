@@ -5,7 +5,7 @@ public class MyFrame extends JFrame {
     MyFrame() {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(800, 600);
-        this.setTitle("Demo");
+        this.setTitle("TestApp");
         this.setLocationRelativeTo(null);
 
         ImagePanel image_panel = new ImagePanel();
